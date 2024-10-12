@@ -10,6 +10,7 @@ yes, i have left my API key exposed, because i don't care, go nuts.
 have node and npm installed on your machine
 
 ## Installation and Setup
+- [install](https://docs.deno.com/runtime/getting_started/installation/) deno and restart your terminal
 - clone the repo and navigate to the project
   ```
   git clone https://github.com/thisisrajneel/weat.git
@@ -19,7 +20,6 @@ have node and npm installed on your machine
   ```
   npm i
   ```
-- [install](https://docs.deno.com/runtime/getting_started/installation/) deno
 - compile the code into a binary
   ```
   deno compile --allow-all main.js
